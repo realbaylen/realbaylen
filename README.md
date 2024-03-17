@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @realbaylen
-- 👀 I’m interested in vintage technology and Linux
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: baylen@waifu.club
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Baylen
+- 👀 I’m interested in vintage technology and GNU/Linux
+- 🌱 I’m currently learning Java for school
+- 📫 How to reach me: please read the contact section on my website (https://baylen.me)
 
 <!---
 realbaylen/realbaylen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
