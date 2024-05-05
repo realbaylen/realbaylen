@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Baylen
-- 👀 I’m interested in vintage technology and GNU/Linux
-- 🌱 I’m currently learning Java for school
-- 📫 How to reach me: please read the contact section on my website (https://baylen.me)
+![Alt Text](https://i.pinimg.com/originals/73/e9/91/73e991010ec134fbd0ab475172bd13f6.gif)
 
 <!---
 realbaylen/realbaylen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
